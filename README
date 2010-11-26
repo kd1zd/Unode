@@ -1,0 +1,20 @@
+
+Unode 1.0.0  
+
+This node is originally based on UROnode 1.0.7, which was based on the work of several other hams.  You can read
+the history in README.URO.  
+
+This version is known to compile on the Linux 2.6.x series of kernels.  The versions of AX25 libraries I used
+to compile this were:
+
+libax25-0.0.12-rc2
+ax25-tools 0.0.10
+
+
+Please let me know if you have suggestions to make the program better, bug reports, etc.
+
+Thanks,
+
+Bob Thoelen
+KD1ZD
+Email:  kd1zd@rtcubed.org
